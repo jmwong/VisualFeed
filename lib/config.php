@@ -1,6 +1,6 @@
 <?php
-define('APPID', '148456375196866');
-define ('APPSECRET', '43e5388ec3c9972d933aed0c50a9cf59');
+define('APPID', '');
+define ('APPSECRET', '');
 
 $facebook = null;
 
