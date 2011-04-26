@@ -1,0 +1,42 @@
+@CHARSET "ISO-8859-1";
+* {
+	color:#fff;
+}
+body {
+	background-image:url('../img/bg.png');	
+}
+
+#logo {
+	height:60px;
+	background-repeat:no-repeat;
+	margin:10px 0 0 0;
+	padding:0;
+}
+
+#wall{
+	height:85%;
+	width:100%;
+}
+
+#logo img{
+	border:none;
+	width:350px;
+	margin:0;
+	padding:0;
+}
+
+h4, p{
+	color:#fff;
+}
+
+.container {
+	/*background-image:url('bg.png');*/
+	height:100%;
+}
+
+
+}
+
+#wall {
+	height:85%;
+}

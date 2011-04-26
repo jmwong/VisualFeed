@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+      <channel>
+          <title>Visual Feed</title>
+          <description>FB Project</description>
+          <link>http://localhost.com/visualfeed/</link>
+         
+
+      <item><title>Stephanie Meng Mei Yee</title><media:description>Say you love me,
+Then put it in a love song 
+
+Say you need me, 
+
+Then write it in a letter for me
+
+Say you want me, 
+
+Then text me on the cell phone</media:description><link>http://www.facebook.com/100000648279395/posts/159592150731130</link><media:thumbnail url="http://farm5.static.flickr.com/4088/5044395311_8f014f3b11_m.jpg"/><media:content url="http://farm5.static.flickr.com/4088/5044395311_8f014f3b11_b.jpg"/></item><item><title>Lim Wei William Yap</title><media:description>Batu Tiga Speed Circuit... where are you????!!!! T.T</media:description><link>http://www.facebook.com/768838963/posts/165398333476759</link><media:thumbnail url="http://farm5.static.flickr.com/4088/5053642567_a06f594ace_m.jpg"/><media:content url="http://farm5.static.flickr.com/4088/5053642567_a06f594ace_b.jpg"/></item></channel>
+      </rss>
