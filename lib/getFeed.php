@@ -152,7 +152,7 @@ function newNext($dom, $s, $t){
 function getYahooTerms($string){
 	$return = sendRequest('http://search.yahooapis.com/ContentAnalysisService/V1/termExtraction',
 	array(
-				'appid' => 'fpRlW0TV34EDeFmoOVVy3CMxJFL06cCrgsy.JTtr8AKKfrNJznqRzVLhu97mole4RBkITYkXCFXx',
+				'appid' => '',
 				'context' => $string,
 				'output'=> 'php',
 	));
@@ -168,7 +168,7 @@ function getYahooTerms($string){
 function getFlickr($tag){
 
 	$flickrParams = array(
-	'api_key' => '2a1b376ea5b8312b07ad204db25610da',
+	'api_key' => '',
 	'method' => 'flickr.photos.search',
 	'format' => 'php_serial',
 	'sort' => 'relevance',
